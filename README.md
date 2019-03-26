@@ -1,18 +1,7 @@
 # Web-Calculator
 Allows users to perform add, multiple, subtract with server side calculation
 WEB CAlCULATOR
-_______________________
-| |            15.00|
-| |_________________| |
-|  ___ ___ ___   ___  |
-| | 7 | 8 | 9 | | + | |
-| |___|___|___| |___| |
-| | 4 | 5 | 6 | | - | |
-| |___|___|___| |___| |
-| | 1 | 2 | 3 | | x | |
-| |___|___|___| |___| |
-| | . | 0 | = | | / | |
-| |___|___|___| |___| |
+
 
 SERVER SIDE CALCULATIONS
 Front-end:
