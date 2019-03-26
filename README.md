@@ -2,15 +2,11 @@
 Allows users to perform add, multiple, subtract with server side calculation
 WEB CAlCULATOR
 
-
+      __    ____   __    ___  _   _  ____ 
+  
 SERVER SIDE CALCULATIONS
 Front-end:
-.__              .__         
-|__| ____   ____ |__| ____   
-|  |/  _ \ /    \|  |/ ___\  
-|  (  <_> )   |  \  \  \___  
-|__|\____/|___|  /__|\___  > 
-               \/        \/  
+ 
 I decided to use the Ionic Framework, due to it's ease of use for front end development via web or mobile app.
 
 Developing a calculator may warrant the use of a mobile device and ionic allows for that flexibility.
@@ -21,16 +17,8 @@ Back-end:
 
                                                                                               
       __    ____   __    ___  _   _  ____ 
-  /__\  (  _ \ /__\  / __)( )_( )( ___)
- /(__)\  )___//(__)\( (__  ) _ (  )__) 
-(__)(__)(__) (__)(__)\___)(_) (_)(____)                                                                                    
-                                            
-  __ _          _                    
- / _(_)        | |                   
-| |_ _ _ __ ___| |__   __ _ ___  ___ 
-|  _| | '__/ _ \ '_ \ / _` / __|/ _ \ 
-| | | | | |  __/ |_) | (_| \__ \  __/
-|_| |_|_|  \___|_.__/ \__,_|___/\___|
+  
+
                                      
 
 I used Apache to host the scripts I have developed, performing server-side calculations. 
